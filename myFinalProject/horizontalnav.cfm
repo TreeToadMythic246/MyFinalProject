@@ -14,7 +14,7 @@
                 &nbsp;&nbsp;&nbsp;&nbsp; 
             </li>
             <li class="nav-item">
-                <a href="management1.cfm">Management </a> 
+                <a href="management1.cfm">Source Code </a> 
                 &nbsp;&nbsp;&nbsp;&nbsp; 
             </li>
             <li class="nav-item">
@@ -23,7 +23,11 @@
             </li>
             <li class="nav-item">
                 <a href="storeinformation.cfm">About</a>
+                &nbsp;&nbsp;&nbsp;&nbsp; 
             </li>
+            <li class="nav-item">
+                <a href="createUUIDS.cfm">Create a UUID</a>
+                &nbsp;&nbsp;&nbsp;&nbsp; 
         </ul>
         <cfoutput>
             &nbsp;&nbsp;&nbsp;&nbsp; 
