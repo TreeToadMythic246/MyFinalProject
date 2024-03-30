@@ -1,1 +1,3 @@
-<cfinclude template=”horizontalnav.cfm”
+<nav>
+    <cfinclude template="horizontalnav.cfm" />
+</nav> 

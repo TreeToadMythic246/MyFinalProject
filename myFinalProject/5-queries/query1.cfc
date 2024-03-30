@@ -10,7 +10,7 @@ component {
      **/
     function allBooks(){
         try {
-            var qs = new query( datasource=application.dsource );
+            var qs = new query(datasource=application.dsource);
             qs.setSql( "select * from books order by title");
             return qs.execute().getResult();
         } catch ( any err ) {

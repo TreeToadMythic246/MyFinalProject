@@ -3,6 +3,11 @@
         <button data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active"></button>
         <button data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1"></button>
         <button data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2"></button>
+        <button data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3"></button>
+        <button data-bs-target="#carouselExampleCaptions" data-bs-slide-to="4"></button>
+        <button data-bs-target="#carouselExampleCaptions" data-bs-slide-to="5"></button>
+        <button data-bs-target="#carouselExampleCaptions" data-bs-slide-to="6"></button>
+        <button data-bs-target="#carouselExampleCaptions" data-bs-slide-to="7"></button>
     </div>
     <div class="carousel-inner">
         <div class="carousel-item active">
@@ -27,6 +32,41 @@
             <div class="carousel-caption d-none d-md-block">
                 <h5>Encyclopedia Brown</h5>
                 <p>Boy Detective.</p>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="images/TheNightLand.jpg" class="d-block w-100" alt="..."
+                 style="width:65% !important; margin-left:auto;margin-right:auto">
+            <div class="carousel-caption d-none d-md-block">
+                <h5>The Night Land</h5>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="images/TheWarlordofMars.jpg" class="d-block w-100" alt="..."
+                 style="width:65% !important; margin-left:auto;margin-right:auto">
+            <div class="carousel-caption d-none d-md-block">
+                <h5>The Warlord of Mars</h5>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="images/ForWhomTheBellTolls.jpg" class="d-block w-100" alt="..."
+                 style="width:65% !important; margin-left:auto;margin-right:auto">
+            <div class="carousel-caption d-none d-md-block">
+                <h5>For Whom The Bell Tolls</h5>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="images/BlackColossus.jpg" class="d-block w-100" alt="..."
+                 style="width:65% !important; margin-left:auto;margin-right:auto">
+            <div class="carousel-caption d-none d-md-block">
+                <h5>Black Colossus</h5>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="images/TheDarkEidolonandOtherFantasies.jpg" class="d-block w-100" alt="..."
+                 style="width:65% !important; margin-left:auto;margin-right:auto">
+            <div class="carousel-caption d-none d-md-block">
+                <h5>The Dark Eidolon</h5>
             </div>
         </div>
         <div class="carousel-item">
